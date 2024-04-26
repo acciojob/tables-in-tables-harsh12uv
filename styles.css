@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+*{
+	border: 1px solid black
+}
+#nob{
+	border-style:none
+}
